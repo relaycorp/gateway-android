@@ -41,3 +41,9 @@ spec:
       version: 29   # Android 10.0
       locale: en
       orientation: portrait
+
+    # Pixel 2 (virtual)
+    - model: Pixel2
+      version: 30   # Android 11.0
+      locale: en
+      orientation: portrait
